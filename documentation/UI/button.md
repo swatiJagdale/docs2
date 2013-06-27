@@ -16,6 +16,7 @@ Types Of buttons
 	<span>Start Your Claim</span>
 	</a>
 
+#####To make chages in the size of button, we can replace the "large" class with "small" or "medium"
 
 Example
 
