@@ -22,7 +22,7 @@ This component is used when user has to select one of the two options.
 						</label>
 		</div>
 		
-Demo
+Example
               
 ![alt text][FlipswitchYes]
 
