@@ -39,9 +39,9 @@ Example
 
 	
 ####White Button	
-		<div class="floatRight grayButton marginT15" id="locationChangeBtn">
-                <a data-ajax="true"> Change </a>
-		</div>
+		<a id="dateChangeBtn" class='button white'>
+                Change
+                </a>
 
 
 Example
