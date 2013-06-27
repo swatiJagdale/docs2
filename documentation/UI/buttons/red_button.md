@@ -8,7 +8,9 @@ UI Component
 ###Button		
 	
 ####Red Button
-		<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+	<a class="button red large" data-transition="slide" data-ajax="true" id="autoAccident">
+	<span>Auto Accident</span> 
+	</a>
 
 Demo
 
