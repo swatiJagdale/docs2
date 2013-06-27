@@ -6,7 +6,7 @@ UI components
 
 ###Footer
 
-Footer component is used to keep the content atthe bottom of the screen.
+Footer component is used to keep the content atthe bottom of the screen.  
 When user scrolls the page, footer container will remain at the bottom.
 
 		<div class='landingFooter'>
