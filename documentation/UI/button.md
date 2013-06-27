@@ -20,9 +20,9 @@ Types Of buttons
 Example
 
 
-![alt text][Demo]
+![alt text][blue_button]
 
-[Demo]: ../screenshots/blue_button.png "Demo"
+[blue_button]: ../screenshots/blue_button.png "Demo"
 
 	
 ####Red Button
@@ -33,9 +33,9 @@ Example
 Demo
 
 
-![alt text][Demo]
+![alt text][red_button]
 
-[Demo]: ../screenshots/red_button.png "Demo"
+[red_button]: ../screenshots/red_button.png "Demo"
 
 	
 * White
