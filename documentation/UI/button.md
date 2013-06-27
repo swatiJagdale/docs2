@@ -38,7 +38,19 @@ Demo
 [red_button]: ../screenshots/red_button.png "Demo"
 
 	
-* White
+####White Button	
+		<div class="floatRight grayButton marginT15" id="locationChangeBtn">
+                <a data-ajax="true"> Change </a>
+		</div>
+
+
+Demo
+
+![alt text][Demo]
+
+[Demo]: ../../screenshots/white_button.png "Demo"
+
+
 ####Call Button
 		
 		<a class="button call" href="tel:+1(877)350-7739" id="callAuto">1-877-350-7739</a>
