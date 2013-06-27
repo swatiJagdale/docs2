@@ -21,11 +21,11 @@ Demo
               
 ![alt text][FlipswitchYes]
 
-[FlipswitchYes]: ../screenshots/FlipswitchYes.png "Demo"
+[FlipswitchYes]: ../screenshots/flipswitchYes.png "Demo"
 
 
 ![alt text][flipswitchNo]
 
-[flipswitchNo]: ../screenshots/flipswitchNo.png "Demo"
+[flipswitchNo]: ../screenshots/FlipswitchNo.png "Demo"
 
 *[back] (UI_overview.md)*  
