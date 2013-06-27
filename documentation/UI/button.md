@@ -15,11 +15,6 @@ UI Component
 	<span>Start Your Claim</span>
 	</a>
 
-#####To make chages in the size of button, we can replace the "large" class with "small" or "medium"
-
-Large button size: 100%  
-Medium button size: 70%  
-Small button size: 35%
 
 Example
 
@@ -41,7 +36,15 @@ Example
 
 [red_button]: ../screenshots/red_button.png "Demo"
 
-	
+
+
+#####To make changes in the size of blue and red button, we can replace the "large" class with "small" or "medium"
+
+Large button size: 100%  
+Medium button size: 70%  
+Small button size: 35%
+
+
 ####White Button	
 		<a id="dateChangeBtn" class='button white'>Change </a>
 
