@@ -33,9 +33,13 @@ UI components
 Demo
 
 
-![alt text][Demo]
+![alt text][accordionClosed]
 
-[Demo]: ../screenshots/accordionClosed.png "Logo Title Text 2"
+[accordionClosed]: ../screenshots/accordionClosed.png ""
+
+![alt text][accordianOpen]
+
+[accordianOpen]: ../screenshots/accordian_open view.png ""
 
 		
 *[back] (UI_overview.md)*  
