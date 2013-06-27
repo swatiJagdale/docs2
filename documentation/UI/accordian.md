@@ -35,7 +35,7 @@ Demo
 
 ![alt text][Demo]
 
-[Demo]: ../screenshots/accordian.png "Logo Title Text 2"
+[Demo]: ../screenshots/accordion.png "Logo Title Text 2"
 
 		
 *[back] (UI_overview.md)*  
