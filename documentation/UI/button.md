@@ -30,7 +30,7 @@ Example
 	<span>Auto Accident</span> 
 	</a>
 
-Demo
+Example
 
 
 ![alt text][red_button]
@@ -44,7 +44,7 @@ Demo
 		</div>
 
 
-Demo
+Example
 
 ![alt text][Demo]
 
@@ -55,7 +55,7 @@ Demo
 		
 		<a class="button call" href="tel:+1(877)350-7739" id="callAuto">1-877-350-7739</a>
 
-Demo
+Example
 
 ![alt text][call_button]
 
