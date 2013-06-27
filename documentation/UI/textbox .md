@@ -6,10 +6,10 @@ UI components
 
 ###Textbox
 
-
+* 
 	
 		
-		<input type="text" placeholder="Driver's name" data-offset="none"/>
+		<input type="text" placeholder="Auto Policy Number" />
 
 Demo
 
