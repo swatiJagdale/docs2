@@ -8,10 +8,8 @@ UI Component
 ###Button		
 ####White Button	
 		<div class="floatRight grayButton marginT15" id="locationChangeBtn">
-                            <a data-ajax="true">
-                               Change
-                            </a>
-                 </div>
+                <a data-ajax="true"> Change </a>
+                </div>
 
 
 Demo
