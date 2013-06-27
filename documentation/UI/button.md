@@ -9,7 +9,22 @@ UI Component
 
 
 Types Of buttons
-* Blue
+
+####Blue Button
+
+	<a class="button blue large" id="startClaimBtn" data-transition="slide" data-ajax="true">
+	<span>Start Your Claim</span>
+	</a>
+
+
+Example
+
+
+![alt text][Demo]
+
+[Demo]: ../screenshots/blue_button.png "Demo"
+
+	
 * Red
 * White
 * Call
