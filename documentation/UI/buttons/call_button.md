@@ -9,7 +9,7 @@ UI Component
 
 ####Call Button
 		
-		<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+		<a class="button call" href="tel:+1(877)350-7739" id="callAuto">1-877-350-7739</a>
 
 Demo
 
