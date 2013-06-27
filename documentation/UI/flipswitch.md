@@ -6,6 +6,8 @@ UI Components
 
 ###Flipswitch
 
+This component is used when user has to select one of the two options.
+
 		<div class="slider floatRight">
 						<input id="toggle" type="checkbox" checked="checked">
 						<label for="toggle" onclick>
