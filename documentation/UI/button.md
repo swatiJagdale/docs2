@@ -39,9 +39,7 @@ Example
 
 	
 ####White Button	
-		<a id="dateChangeBtn" class='button white'>
-                Change
-                </a>
+		<a id="dateChangeBtn" class='button white'>Change </a>
 
 
 Example
