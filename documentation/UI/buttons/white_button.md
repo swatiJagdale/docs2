@@ -9,7 +9,7 @@ UI Component
 ####White Button	
 		<div class="floatRight grayButton marginT15" id="locationChangeBtn">
                 <a data-ajax="true"> Change </a>
-                </div>
+		</div>
 
 
 Demo
