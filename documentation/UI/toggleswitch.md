@@ -17,9 +17,9 @@ UI Componets
 Demo
 
 
-![alt text][toggleNoSelection]
+![alt text][toggleWithoutSelection]
 
-[toggleNoSelection]: ../screenshots/toggleNoSelection.png "Demo"
+[toggleWithoutSelection]: ../screenshots/toggleWithoutSelection.png "Demo"
 
 
 ![alt text][toggleYesSelection]
