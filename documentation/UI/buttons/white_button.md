@@ -7,7 +7,11 @@ UI Component
 
 ###Button		
 ####White Button	
-		<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+		<div class="floatRight grayButton marginT15" id="locationChangeBtn">
+                            <a data-ajax="true">
+                               Change
+                            </a>
+                 </div>
 
 
 Demo
