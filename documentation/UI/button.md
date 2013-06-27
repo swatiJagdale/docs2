@@ -8,7 +8,6 @@ UI Component
 ###Button		
 
 
-Types Of buttons
 
 ####Blue Button
 
@@ -18,7 +17,7 @@ Types Of buttons
 
 #####To make chages in the size of button, we can replace the "large" class with "small" or "medium"
 
-Large button size: 100 %  
+Large button size: 100%  
 Medium button size: 70%  
 Small button size: 35%
 
