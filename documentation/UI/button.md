@@ -48,7 +48,7 @@ Demo
 
 ![alt text][Demo]
 
-[Demo]: ../../screenshots/white_button.png "Demo"
+[Demo]: ../screenshots/white_button.png "Demo"
 
 
 ####Call Button
