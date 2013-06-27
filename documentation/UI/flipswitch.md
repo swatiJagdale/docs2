@@ -8,6 +8,9 @@ UI Components
 
 This component is used when user has to select one of the two options.
 
+* "active" class needs to be applied for the value which we need to show in the active state by default.
+* "inactive" class needs to be applied for the value which we need to show in the inactive state.
+
 		<div class="slider floatRight">
 						<input id="toggle" type="checkbox" checked="checked">
 						<label for="toggle" onclick>
