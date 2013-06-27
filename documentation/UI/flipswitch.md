@@ -9,9 +9,12 @@ UI Components
 
 Flip switch is used when user has to select one of the two options.
 
-* "active" class needs to be applied for the value which we need to show in the active state by default.
-* "inactive" class needs to be applied for the value which we need to show in the inactive state.
-* "floatRight" class need to be added with class "slider" to position flipswitch to the right side of container.
+* "active" class needs to be applied for the value which we need to show in the active state by default. 
+
+* "inactive" class needs to be applied for the value which we need to show in the inactive state.  
+
+* "floatRight" class need to be added with class "slider" to position flipswitch to the right side of container. 
+
 * "floatLeft" class need to be added with class "slider" to position flipswitch to the left side of container.
 
 		
