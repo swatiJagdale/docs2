@@ -4,11 +4,16 @@ Mobile starter Kit
 UI components
 --------------------------------
 
-###Textinput
+###Input component
 
 * Textbox is used to accept data from user and to display the innformation to the user.
 * There are different types of input
-   * Input components
+   * textbox
+   * tel
+   * number
+   * email
+   * password
+     
 	
 		
 		<input type="text" placeholder="Auto Policy Number" />
