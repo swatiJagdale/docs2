@@ -8,7 +8,9 @@ UI Component
 ###Button
 ####Blue Button
 		
-		<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+	<a class="button blue large" id="startClaimBtn" data-transition="slide" data-ajax="true">
+	<span>Start Your Claim</span>
+	</a>
 
 
 Demo
