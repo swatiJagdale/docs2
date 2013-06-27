@@ -6,7 +6,7 @@ UI components
 
 ###Textbox
 
-* 
+* Textbox is used to accept data from user and to display the innformation to the user
 	
 		
 		<input type="text" placeholder="Auto Policy Number" />
