@@ -35,11 +35,10 @@ Demo
 
 ![alt text][accordionClosed]
 
-[accordionClosed]: ../screenshots/accordionClosed.png ""
+[accordionClosed]: ../screenshots/accordionClosed.png "demo"
 
 ![alt text][accordianOpen]
-
-[accordianOpen]: ../screenshots/accordian_open view.png ""
+[accordianOpen]: ../screenshots/accordian_openview.png "demo"
 
 		
 *[back] (UI_overview.md)*  
