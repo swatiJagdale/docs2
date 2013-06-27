@@ -39,7 +39,16 @@ Demo
 
 	
 * White
-* Call
+####Call Button
+		
+		<a class="button call" href="tel:+1(877)350-7739" id="callAuto">1-877-350-7739</a>
+
+Demo
+
+![alt text][call_button]
+
+[call_button]: ../screenshots/call_button.png "Demo"
+
 
 	
 *[back] (UI_overview.md)*  
