@@ -9,10 +9,10 @@ UI Component
 
 
 Types Of buttons
-* [Blue] 
-* [Red] 
-* [White] 
-* [Call] 
+* Blue
+* Red
+* White
+* Call
 
 	
 *[back] (UI_overview.md)*  
